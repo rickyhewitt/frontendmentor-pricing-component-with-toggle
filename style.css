@@ -173,7 +173,7 @@ header .switch img {
   }
   div.card.right {
     border-top-left-radius: 0px;
-    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
     position: relative;
     left: -2px;
   }
